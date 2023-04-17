@@ -1,1 +1,16 @@
-/*  your css code here. If applicable */
+*{
+	font-family:sans-serif;
+}
+.B-element{
+	display:inline-block;
+	color:red;
+	font-size:20px;
+}
+.M-element{
+	display:inline-block;
+}
+.A-element{
+	display:inline-block;
+    color:red;
+	font-size:20px;
+}
