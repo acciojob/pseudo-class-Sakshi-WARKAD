@@ -3,7 +3,7 @@
 }
 .B-element{
 /* 	display:inline-block; */
-	color:red;
+	color:rgb(255,0,0);
 	font-size:20px;
 }
 .M-element{
@@ -11,6 +11,6 @@
 }
 .A-element{
 	display:inline-block;
-    color:red;
+    color:rgb(255,0,0);
 	font-size:20px;
 }
