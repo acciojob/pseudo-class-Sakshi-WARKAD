@@ -2,7 +2,7 @@
 	font-family:sans-serif;
 }
 .B-element{
-	display:inline-block;
+/* 	display:inline-block; */
 	color:red;
 	font-size:20px;
 }
@@ -10,6 +10,7 @@
 	display:inline-block;
 }
 .A-element{
+	display:inline-block;
     color:red;
 	font-size:20px;
 }
