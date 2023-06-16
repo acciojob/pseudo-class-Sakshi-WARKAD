@@ -1,9 +1,25 @@
-*{
+div::before{
+	content:"Before Element";
+	font-size:20px;
+	color:red;
+}
+div::after{
+    content:"After Element";
+	font-size:20px;
+	color:red;
+}
+
+
+
+
+
+
+/* *{
 	font-family:sans-serif;
 }
 .B-element{
 /* 	display:inline-block; */
-	color:rgb(255,0,0);
+/* 	color:rgb(255,0,0);
 	font-size:20px;
 }
 .M-element{
@@ -12,5 +28,6 @@
 .A-element{
 	display:inline-block;
     color:rgb(255,0,0);
-	font-size:20px;
+	font-size:20px; */
 }
+ */
